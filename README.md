@@ -1,6 +1,6 @@
 # PinkApple
 
-Jogo desenvolvido por Laiz Fernanda e Jainne Agatha, estudantes de Informática para Internet - IFRN.
+Jogo desenvolvido por Laiz Fernanda, estudante de Informática para Internet - IFRN.
 
 O objetivo do jogo PINK APPLE é fazer você se divertir, além de ver a quantidade de maçãs que você consegue capturar.
 
